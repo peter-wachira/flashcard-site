@@ -1,0 +1,16 @@
+
+body{
+  background-color: #ffe3b0;
+}
+p{
+  padding:3em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3{
+  text-align: center;
+  font-style: italic;
+}
+#hidden1, #hidden2, #hidden3, #hidden4{
+  display: none;
+}
